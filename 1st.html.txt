@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<!-- mydssddsddsdss asdsfirst -->
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta http-equiv="refresh" content="4;url=red.html">
+<body>sdsd
+</body>
+
+</head>
+</html>
+dfdf
